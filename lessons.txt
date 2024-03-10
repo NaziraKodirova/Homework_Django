@@ -1,0 +1,8 @@
+Django Basics
+Models and Migrations
+Views and Templates
+Forms and Validation
+Django Admin
+Static Files and Media
+Authentication and Authorization
+Django Rest Framework
